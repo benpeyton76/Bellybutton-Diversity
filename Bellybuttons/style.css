@@ -1,0 +1,33 @@
+body {
+  color: #dde015;
+}
+
+body {
+  margin: 5px;
+  padding-bottom: 70px;
+  background-color: rgb(23, 11, 185) !important;
+  }
+
+.jumbotron {
+  background-image: url("bacteria.png");
+  background-size: 100% 100%;
+  text-align: center;
+} 
+
+.well {
+  margin: 5px;
+  padding-bottom: 70px;
+  background-color: rgb(0, 0, 0) !important;
+}
+
+.panel-heading {
+  margin: 5px;
+  padding-bottom: 70px;
+  background-color: rgb(0, 0, 0) !important;
+}
+
+.panel-body {
+  margin: 5px;
+  padding-bottom: 70px;
+  background-color: rgb(0, 0, 0) !important;
+}
